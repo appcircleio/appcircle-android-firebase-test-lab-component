@@ -1,6 +1,6 @@
 # Firebase Test Lab for Android
 
-This step allows you to run Firebase Test Lab tests using [gcloud](https://cloud.google.com/sdk/gcloud/reference/firebase/test/android/run). `gcloud firebase test android run` invokes tests in Firebase Test Lab tests for Android. 
+This step allows you to run Firebase Test Lab tests using [gcloud](https://cloud.google.com/sdk/gcloud/reference/firebase/test/android/run). `gcloud firebase test android run` invokes tests in Firebase Test Lab for Android. 
 
 Required Input Variables
 - `$AC_FIREBASE_PROJECT_ID`: Specifies the firebase project id
